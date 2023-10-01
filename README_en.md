@@ -1,5 +1,6 @@
 # Deploy a Model in the Cloud
 
+<br>
 ### Table of Contents
 
 - [Introduction](#C1)
@@ -32,18 +33,21 @@ In the first phase, the startup aims to gain recognition by offering the general
 For the startup, this application will raise public awareness of fruit biodiversity and establish an initial version of the fruit image classification engine.
 
 Furthermore, the development of the mobile application will allow the construction of an initial version of the required Big Data architecture.
+<br>
 
 ***
 ### Data<a name="C1.1"></a>
 ***
 
 A dataset already exists, consisting of fruit images and associated labels, which will serve as a starting point for building part of the data processing pipeline.
+<br>
 
 ***
 ### Mission<a name="C1.2"></a>
 ***
 
 I am tasked with developing a preliminary data processing pipeline in **a Big Data environment**, including **preprocessing** and a **dimensionality reduction** step.
+<br>
 
 ***
 ### Specifications<a name="C1.3"></a>
