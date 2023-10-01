@@ -1,8 +1,6 @@
 # Déployez un modèle dans le cloud
 <br>
 <p align="center"> 
-    <img src="pictures/logo_openclassrooms.png" width="200" alt="data scientist logo"  />
-    <br>
     <img src="pictures/logo_data_scientist.png" width="200" alt="data scientist logo"  />
     <br>
     <strong> Data Scientist </strong>
